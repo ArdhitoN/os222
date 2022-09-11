@@ -9,7 +9,7 @@ permalink: LINKS/
 # LINKS
 
 1. [How Do Operating Systems Work?](https://www.youtube.com/watch?v=GjNp0bBrjmU) <br>
-Tells us what kind of problems did we have back then in terms of computing and how the operating system significantly solves those problems. Besides, the video gives us effective visualizations of how the operating system works. 
+This video tells us what kind of problems did we have back then in terms of computing and how the operating system significantly solves those problems. Besides, the video illustrates how the operating system works effectively. 
 <hr>
 
 2. [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4) <br>
