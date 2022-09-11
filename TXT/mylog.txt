@@ -13,4 +13,12 @@ ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 90 L05 Quiz related including studying
 ZCZC W00 15 L41 TXT/mylog.txt related.
+ZCZC W01 15 L00 General, etc.
+ZCZC W01 10 L01 SCELE related
+ZCZC W01 200 L02 ZOOM meetings related
+ZCZC W01 60 L05 Quiz related including studying
 ZCZC W01 15 L21 Trying something
+ZCZC W01 300 L11 Assignment #01
+ZCZC W01 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 10 L40 TXT/ related in general.
