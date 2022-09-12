@@ -4,7 +4,7 @@ permalink: LINKS/
 ---
 | [LOG](TXT/mylog.txt) |
 [GitHub](https://github.com/ArdhitoN/os222) |
-[LINKS](https://github.com/ArdhitoN/os222/LINKS/) |
+[LINKS](https://ArdhitoN.github.io/os222/LINKS/) |
 
 # LINKS
 
