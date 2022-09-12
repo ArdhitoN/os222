@@ -16,5 +16,6 @@ This video tells us what kind of problems did we have back then in terms of comp
 A brief introduction to Linux as a free and open-source operating system, which plays a big role in the advancements of technology. Here, some of the basics of Linux commands are also explained concisely.
 <hr>
 
-3. [Bash Scripting Tutorial for Beginners: What It Is, How to Write One, and Script Examples](https://www.hostinger.com/tutorials/bash-function-tutorial-with-examples/)
+3. [Bash Scripting Tutorial for Beginners: What It Is, How to Write One, and Script Examples](https://www.hostinger.com/tutorials/bash-function-tutorial-with-examples/) <br>
 This link contains background information related to Bash and Scripting, so we can grasp a deeper understanding of what and why we need them. The author also explained all the things in detail yet in a simple way, which makes it easier for beginners like me to understand.
+<hr>
