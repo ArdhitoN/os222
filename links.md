@@ -20,10 +20,10 @@ A brief introduction to Linux as a free and open-source operating system, which 
 This link contains background information related to Bash and Scripting, so we can grasp a deeper understanding of what and why we need them. The author also explained all the things in detail yet in a simple way, which makes it easier for beginners like me to understand.
 <hr>
 
-4.[CYBERTHREAT REAL-TIME MAP](https://cybermap.kaspersky.com/)<br>
+4. [CYBERTHREAT REAL-TIME MAP](https://cybermap.kaspersky.com/)<br>
 This is a real-time map that gives us what's going on now in the cyberworld. A nice place to look yet fun to interact to get new insights.
 <hr>
 
-5. 5.[How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4) <br>
+5. [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4) <br>
 Blockchain is one of the most interesting topics to find out related to security and protection. This link contains a great explanation video with simple illustration to show us how blockchain works and how secure it is.
 <hr>
