@@ -7,7 +7,7 @@ permalink: LINKS/
 # LINKS
 
 1. [How Do Operating Systems Work?](https://www.youtube.com/watch?v=GjNp0bBrjmU) <br>
-This video tells us what kind of problems did we have back then in terms of computing and how the operating system significantly solves those problems effectively.
+This video tells us what kind of problems did we have back then in terms of computing and how the operating system significantly solves those problems.
 <hr>
 
 2. [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4) <br>
@@ -19,7 +19,7 @@ This link contains background information related to Bash and Scripting, so we c
 <hr>
 
 4. [CYBERTHREAT REAL-TIME MAP](https://cybermap.kaspersky.com/)<br>
-This is a real-time map that tells us what's going on now in the cyberworld. A nice place to look yet fun to interact to get new insights.
+This is a real-time map that tells us what's going on now in the cyberworld. A nice place to look and fun to interact to get new insights.
 <hr>
 
 5. [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4) <br>
