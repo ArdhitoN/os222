@@ -25,3 +25,8 @@ This is a real-time map that tells us what's going on now in the cyberworld. A n
 5. [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4) <br>
 Blockchain is one of the most interesting topics to find out related to security and protection. This link contains a great explanation video with simple illustration to show us how blockchain works and how secure it is.
 <hr>
+
+6. [File Allocation Methods] (https://www.geeksforgeeks.org/file-allocation-methods/) <br>
+This article explains the mechanisms for file allocations and their differences, so we can understand the advantages and disadvantages of using each.
+<hr>
+
