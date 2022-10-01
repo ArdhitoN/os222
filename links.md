@@ -29,3 +29,11 @@ Blockchain is one of the most interesting topics to find out related to security
 6. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/) <br>
 This article explains the mechanisms for file allocations and their differences, so we can understand the advantages and disadvantages of using each.
 <hr>
+
+7. [Endianness Explained With an Egg - Computerphile](https://www.youtube.com/watch?v=NcaiHcBvDR4) <br>
+Little endian and big endian, do you know what's the difference between those two? Here, you can get a detailed explanation about it with a simple analogy.
+<hr>
+
+8. [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) <br>
+An 8-minute video that explains the 5W + 1H aspects of pointers. It may not cover all of the pointer-related concepts, but at least it gives us the fundamentals needed for getting a deep understanding of the subject.
+<hr>
