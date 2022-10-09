@@ -37,3 +37,8 @@ Little endian and big endian, do you know what's the difference between those tw
 8. [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) <br>
 An 8-minute video that explains the 5W + 1H aspects of pointers. It may not cover all of the pointer-related concepts, but at least it gives us the fundamentals needed for getting a deep understanding of the subject.
 <hr>
+
+9. [Virtual Memory: 4 How Does Virtual Memory Work?](https://www.youtube.com/watch?v=59rEMnKWoS4) <br>
+Virtual memory gives advantages to application management systems, including improvements in performance and protection. This link contains a simple and clear explanation of how virtual memory works.
+<hr>
+ 
