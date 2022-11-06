@@ -41,4 +41,7 @@ An 8-minute video that explains the 5W + 1H aspects of pointers. It may not cove
 9. [Virtual Memory: 4 How Does Virtual Memory Work?](https://www.youtube.com/watch?v=59rEMnKWoS4) <br>
 Virtual memory gives advantages to application management systems, including improvements in performance and protection. This link contains a simple and clear explanation of how virtual memory works.
 <hr>
- 
+
+10. [Threading vs Multiprocessing in Python](https://www.youtube.com/watch?v=ecKWiaHCEKs) <br>
+This is a video that summarizes the difference between threading and multiprocessing in a higher-level view with Python. They also do the real-time hardware analysis when running the python program to make it clearer.
+<hr>
