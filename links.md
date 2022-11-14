@@ -45,3 +45,8 @@ Virtual memory gives advantages to application management systems, including imp
 10. [Threading vs Multiprocessing in Python](https://www.youtube.com/watch?v=ecKWiaHCEKs) <br>
 This is a video that summarizes the difference between threading and multiprocessing in a higher-level view with Python. They also do the real-time hardware analysis when running the python program to make it clearer.
 <hr>
+
+11. [What Are Mutexes and How Do They Work (atoms?)](https://www.youtube.com/watch?v=1tZhmTnk-vc) <br>
+A video that explains how mutexes work with atomic operations as its building blocks, which can't be interrupted so we can prevent race conditions. They also present the big picture of how to implement it from scratch.
+	
+<hr>
