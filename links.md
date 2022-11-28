@@ -52,6 +52,11 @@ A video that explains how mutexes work with atomic operations as its building bl
 <hr>
 
 12. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/) <br>
-A digita lbook that explains how to build our own linux from scratch. Would be very useful if we want to (again) make our own Operating Systems.
+A digital book that explains how to build our own linux from scratch. Would be very useful if we want to (again) make our own Operating Systems.
+
+<hr>
+
+13. [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms/) <br>
+An article that explains 5W + 1H aspects of disk scheduling algorithms with visualizations and simple real-case analysis.
 
 <hr>
